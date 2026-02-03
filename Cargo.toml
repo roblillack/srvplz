@@ -1,0 +1,13 @@
+[package]
+name = "srvplz"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/roblillack/srvplz"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+chrono = "0.4"
+mime_guess = "2"
+tiny_http = "0.12"
+urlencoding = "2"
