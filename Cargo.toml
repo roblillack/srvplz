@@ -5,6 +5,7 @@ edition = "2021"
 repository = "https://github.com/roblillack/srvplz"
 license = "MIT"
 readme = "README.md"
+description = "Minimal CLI static HTTP server for a directory."
 
 [dependencies]
 chrono = "0.4"
